@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [program.projectTest]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="program.projectTest">
+        <methods>
+          <include name="afterClassTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethodTest"/>
+          <include name="beforeSuite"/>
+          <include name="afterTestTest"/>
+          <include name="beforeClassTest"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+          <include name="dpTest"/>
+          <include name="beforeSuiteTest"/>
+          <include name="beforeMethodTest"/>
+          <include name="afterSuiteTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTestTest"/>
+          <include name="afterClass"/>
+          <include name="tstmdTest"/>
+          <include name="afterSuite"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- program.projectTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [program.projectTest] -->
